@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.iblaunch.wpassverifier",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "microservice",
+    "baseName": "wPassVerifier",
+    "packageName": "com.iblaunch.wpassverifier",
+    "packageFolder": "com/iblaunch/wpassverifier",
+    "serverPort": "8083",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "cassandra",
+    "devDatabaseType": "cassandra",
+    "prodDatabaseType": "cassandra",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Nzc2NzZmMWYyNThjNmJmNTZjNGI2MjYyODBkZTNmOTFlMDJiMDhlZGNiZjJhZWEyNjliYjk0MDY1YmFlYTM4YTU5MjhmODQ0MzZmMDkzNzhiMTc4MzczNDgyNDdhNGI0ZTc4YjJhYzE5ZTZhYjFjZjM4YjU2NDY3MWZhMDRhZmI=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
